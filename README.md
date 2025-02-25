@@ -26,4 +26,4 @@
 ![WhatsApp Image 2025-02-25 at 15 59 04-3](https://github.com/user-attachments/assets/434b02dd-0407-4b27-954f-d862be0a8782)
 # crops detection 
 ![WhatsApp Image 2025-02-25 at 15 59 04](https://github.com/user-attachments/assets/85f93991-e74f-44f4-a4f7-96e46c0d17c8)
-# la
+
