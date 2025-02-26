@@ -35,4 +35,4 @@ git clone https://github.com/anirban222777das/FASAL-VYAPAR
 |-------------------|--------------|--------------|
 | <img src="https://github.com/user-attachments/assets/764baa7a-e250-469a-abf1-f7e238390b9e" width="250" style="border: 2px solid black; border-radius: 10px; padding: 5px;"> | <img src="https://github.com/user-attachments/assets/434b02dd-0407-4b27-954f-d862be0a8782" width="250" style="border: 2px solid black; border-radius: 10px; padding: 5px;"> | <img src="https://github.com/user-attachments/assets/85f93991-e74f-44f4-a4f7-96e46c0d17c8" width="250" style="border: 2px solid black; border-radius: 10px; padding: 5px;"> |
 
-🚀 **Stay tuned for updates!**
+🚀 **The Models files are not available! please use your own models accordingly**
